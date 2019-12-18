@@ -1,0 +1,9 @@
+{
+  "SGBotic.basicCal|block": "Basic Calibration %i2c_addr",
+  "SGBotic.calDelete|block": "Delete calibration data %i2c_addr",
+  "SGBotic.calToZero|block": "Calibrate to Zero DO %i2c_addr",
+  "SGBotic.read_do|block": "Dissolved Oxygen I2C Addr %i2c_addr",
+  "SGBotic|block": "SGBotic",
+  "{id:category}SGBotic": "SGBotic",
+  "{id:subcategory}Dissolved-Oxygen": "Dissolved-Oxygen"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "pxt-SGBotic-EZODO",
+    "version": "0.1",
+    "description": "Makdecode extension for EZO-Dissolved Oxygen Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "EZODO.ts",
+        "base.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}

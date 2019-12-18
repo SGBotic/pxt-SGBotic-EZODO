@@ -1,0 +1,7 @@
+{
+  "SGBotic": "Makecode extension for Dissolved Oxygen Sensor\n\nSGBotic blocks",
+  "SGBotic.basicCal": "Basic Calibration",
+  "SGBotic.calDelete": "Delete Calibration Data",
+  "SGBotic.calToZero": "Calibrate to Zero DO",
+  "SGBotic.read_do": "Read Dissolved oxygen"
+}
